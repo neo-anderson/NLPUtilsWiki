@@ -34,7 +34,7 @@ Wiki source until the main repository becomes public
 - Repeatedly searches congressional record for each senator present during the congress.
 - Extracts the selected senator's dialogue. Continue extraction of dialogues spanning multiple lines until the dialogue of the next speaker.  
 - Added a feature to limit the maximum documents per senator
-- Format output filenames as <congress number>-<senator last name>-<party>-<state>-<date>-<title>.txt
+- Format output filenames based on template
 
 **Version 0.8**
 - Created Senator Crawler plugin 
